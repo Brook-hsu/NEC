@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1583041257 source:e:\my_project\clode blocks\temp\newenglish4\main.c
+	"recite.h"
+	"login.h"
+
+1581087577 source:e:\my_project\clode blocks\temp\newenglish4\readfile.c
+	"recite.h"
+
+1580803931 e:\my_project\clode blocks\temp\newenglish4\test.h
+
+1583038624 e:\my_project\clode blocks\temp\newenglish4\recite.h
+	"screen.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1581078085 source:e:\my_project\clode blocks\temp\newenglish4\check.c
+	<stdio.h>
+	"recite.h"
+
+1583026460 source:e:\my_project\clode blocks\temp\newenglish4\function.c
+	"recite.h"
+
+1583027759 source:e:\my_project\clode blocks\temp\newenglish4\recite.c
+	"recite.h"
+	"screen.h"
+
+1583038624 source:e:\my_project\clode blocks\temp\newenglish4\screen.c
+	"recite.h"
+	"login.h"
+
+1583038598 e:\my_project\clode blocks\temp\newenglish4\screen.h
+
+1583028380 source:e:\my_project\clode blocks\temp\newenglish4\word.c
+	"recite.h"
+
+1583037247 source:e:\my_project\clode blocks\temp\newenglish4\game.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1581505021 source:e:\my_project\clode blocks\temp\newenglish4\game2048.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1580272097 source:e:\my_project\clode blocks\temp\newenglish4\general.c
+	<stdio.h>
+
+1581503055 source:e:\my_project\clode blocks\temp\newenglish4\mine.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1580731484 source:e:\my_project\clode blocks\temp\newenglish4\sokoban.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1581521011 source:e:\my_project\clode blocks\temp\newenglish4\sudoku.c
+	<stdio.h>
+
+1582186879 source:e:\my_project\clode blocks\temp\newenglish4\game_function.c
+	<windows.h>
+
+1583037869 source:e:\my_project\clode blocks\temp\newenglish4\login.c
+	<stdio.h>
+	"recite.h"
+	"login.h"
+
+1582946643 e:\my_project\clode blocks\temp\newenglish4\login.h
+
+1582983662 source:e:\my_project\clode blocks\temp\newenglish4\icon.rc
+
+1582989006 source:e:\my_project\clode blocks\temp\newenglish4\ico.rc
+
+1583726786 source:e:\my_project\c\newenglish4\function.c
+	"recite.h"
+	"screen.h"
+
+1583741881 e:\my_project\c\newenglish4\recite.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1583745366 e:\my_project\c\newenglish4\screen.h
+
+1583717773 source:e:\my_project\c\newenglish4\game.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1581505021 source:e:\my_project\c\newenglish4\game2048.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<Windows.h>
+
+1582186879 source:e:\my_project\c\newenglish4\game_function.c
+	<windows.h>
+
+1580272097 source:e:\my_project\c\newenglish4\general.c
+	<stdio.h>
+
+1582989006 source:e:\my_project\c\newenglish4\ico.rc
+
+1583745528 source:e:\my_project\c\newenglish4\login.c
+	"recite.h"
+	"login.h"
+	"screen.h"
+
+1582946643 e:\my_project\c\newenglish4\login.h
+
+1583746015 source:e:\my_project\c\newenglish4\main.c
+	"recite.h"
+	"screen.h"
+	"login.h"
+
+1581503055 source:e:\my_project\c\newenglish4\mine.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583743089 source:e:\my_project\c\newenglish4\recite.c
+	"recite.h"
+	"screen.h"
+
+1583742707 source:e:\my_project\c\newenglish4\screen.c
+	"recite.h"
+	"login.h"
+	"screen.h"
+
+1580731484 source:e:\my_project\c\newenglish4\sokoban.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1581521011 source:e:\my_project\c\newenglish4\sudoku.c
+	<stdio.h>
+
+1583741909 source:e:\my_project\c\newenglish4\word.c
+	"recite.h"
+	"screen.h"
+
